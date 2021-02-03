@@ -10,7 +10,7 @@
 * [nlp-datasets, Multilingual](https://github.com/niderhoff/nlp-datasets)
 * [awesome-nlp, Multilingual](https://github.com/keon/awesome-nlp#datasets)
 
-## Chinese Word Segmentation
+## Word Segmentation (Chinese)
 * [SIGHAN2005](http://sighan.cs.uchicago.edu/bakeoff2005/)
 * [multi-criteria-cws](https://github.com/hankcs/multi-criteria-cws)
 * [Chinese NLP data by ShannonAI, Chinese](https://github.com/ShannonAI/glyce/blob/master/docs/dataset_download.md)
